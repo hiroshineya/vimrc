@@ -1,4 +1,4 @@
 vimrc
 =====
 
-vimrc
+.vimrc simple version.
