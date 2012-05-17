@@ -11,4 +11,6 @@ set backspace=2
 " " show whitespace chars
 set list
 set showmatch
-
+syntax on
+" Comment color = blue
+hi Comment ctermfg=4
