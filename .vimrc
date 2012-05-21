@@ -11,6 +11,10 @@ set backspace=2
 " " show whitespace chars
 set list
 set showmatch
+' remove highlighted(matched)
+set hlsearch
+nmap <Esc><Esc> :nohlsearch<CR><Esc>
 syntax on
 " Comment color = blue
 hi Comment ctermfg=4
+
